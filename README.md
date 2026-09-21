@@ -9,9 +9,9 @@ and accountable human judgment.
 
 My professional background spans military intelligence, adversarial Red Team
 operations, complex investigations, corporate security, crisis operations,
-enterprise risk, compliance, and international business. I am currently
-completing a Master of Legal Studies in Cybersecurity Law & Policy at Texas A&M
-University School of Law.
+enterprise risk, compliance, and international business. I am completing a
+Master of Legal Studies and graduate certificate in Cybersecurity Law & Policy,
+both in progress at Texas A&M University School of Law; expected 2027.
 
 ### Current focus
 
@@ -25,6 +25,7 @@ University School of Law.
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Claim Ledger Lab](https://github.com/jvandenhouten/claim-ledger-lab) | Atomic claim decomposition, evidence rules, alternative hypotheses, abstention, and accountable release gates — method lab, not a benchmark |
 | [GRC Risk Register & Controls Tracker](https://github.com/jvandenhouten/grc-risk-register-tracker) | NIST CSF 2.0 control mapping, traceable residual-risk reasoning, remediation tracking, and executive reporting |
 | [Abuse Investigation & Detection Portfolio](https://github.com/jvandenhouten/openai-abuse-investigator-portfolio) | Synthetic investigative analytics, entity resolution, competing hypotheses, confidence-rated findings, and accountable human review |
 | VeriCouncil — AI Assurance Case Study | Multi-model independent analysis, adversarial Red Teaming, claim verification, dissent preservation, and human decision authority — public case study in development |
